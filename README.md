@@ -1,5 +1,9 @@
 # Human Tracking Robotic Walking Table (Ongoing Project...)
 
+## Simulated (Final Prototype):
+<img width="642" height="576" alt="image" src="https://github.com/user-attachments/assets/b5d5f5a5-4047-437f-a497-5e56a71d9ee0" />
+
+
 ## Project Acknowledgements: A Table with a Mind of Its Own 🤖
 What if furniture could do more than just sit there? For people with disabilities or mobility challenges, a table that follows you could make daily life easier—delivering essentials, reducing the need to reach or move heavy objects, and adding independence at home. That’s the big idea behind this project: a human-tracking robotic walking table!
 
