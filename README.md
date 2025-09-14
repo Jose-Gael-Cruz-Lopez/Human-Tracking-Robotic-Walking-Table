@@ -1,6 +1,6 @@
 # Human Tracking Robotic Walking Table (Ongoing Project...)
 
-## Simulated (Final Prototype):
+## Simulated (Final Prototype Design Concept):
 <img width="642" height="576" alt="image" src="https://github.com/user-attachments/assets/b5d5f5a5-4047-437f-a497-5e56a71d9ee0" />
 
 
