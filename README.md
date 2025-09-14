@@ -1,8 +1,6 @@
-# Human-Tracking-Robotic-Walking-Table
+# Human Tracking Robotic Walking Table (Ongoing Project...)
 
-## Human Tracking Robotic Walking Table (Ongoing Project...)
-
-Project Acknowledgements: A Table with a Mind of Its Own 🤖
+## Project Acknowledgements: A Table with a Mind of Its Own 🤖
 What if furniture could do more than just sit there? For people with disabilities or mobility challenges, a table that follows you could make daily life easier—delivering essentials, reducing the need to reach or move heavy objects, and adding independence at home. That’s the big idea behind this project: a human-tracking robotic walking table!
 
 Inspiration comes from the incredible work of Theo Jansen, a Dutch artist and engineer who creates massive, wind-powered walking sculptures called Strandbeests (Dutch for "beach animals"). Jansen's creations are more than just art; they're intricate mechanical systems that move with an almost life like grace. He designed a special linkage a system of rods and pivots that converts the simple spinning motion of a windmill into a smooth, elegant walking stride. 🤸‍♀
