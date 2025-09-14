@@ -13,3 +13,13 @@ This project is a blend of art and engineering, combining the beautiful mechanic
 
 ## Authors
 Jose Gael Cruz Lopez : @Jose-Gael-Cruz-Lopez
+
+## Things used in this project
+
+### Hardware Components
+- [L298 Dual H Bridge Motor Speed Controller](https://www.amazon.com/dp/B0B2RBXTYL?ref=ppx_yo2ov_dt_b_fed_asin_title) — Controls the motors’ speed and direction
+- [Lipo Battery](https://www.amazon.com/dp/B0716T67QN?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4) — Powers the whole system
+- [24v Brushless Stepper 80 RPM](https://www.robotshop.com/products/aslong-motor-[]high-torque-self-locking-5840-31zy-24v-80rpm-worm-gear-motor?qd=411a137e467bcd98c2762649e2846f5a) - High-torque stepper motor that drives the table’s walking mechanism
+- [Fankerba DC Auto Boost Buck Converter](https://www.amazon.com/dp/B078XC976Y?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
+- [XT60 / XT-60 Male Connectors](https://www.amazon.com/XT-60-Connectors-14awg-Turnigy-Zippy%EF%BC%88BDHI-24%EF%BC%89/dp/B07M64KPK6/ref=sr_1_8?crid=2INLNDTF2JXLR&dib=eyJ2IjoiMSJ9.l5aaF0FZp95YgmyZ63LMY3vDhLtKCCtEK-UwES9rDdDRwrjEvEK4d8gzxrb6okEGIzxgZTSw-Z_zVUnPa4TM2h60-HI51jfnlyqTEyeShYtGJdbdJCBqsSESj_G3sVByYksDu6h1jBoWiD_3npCPkYEIN_AaEuUHkdXIs_hS4BjKX2w32aqiK0G36yvB3PjIGnC_nEk10ApiedkN5zYwa38n8BVTxg5EA9pa9NNvKTy3P-00uTGr0eukqsqUiNW9lKqQuryPAdKo0LpHV6Ks_ZaDFbkn1lO95CX7Em1GTfBdrZSRpEwdNKnmfA-uGXK_zAhEJGreemvqSlqz2e923RNve23XHT8csnoeQJoz6_0.IkyhGibnuAmgB-TObokum6LzqTn5B7x9n7fYKUFvZ-o&dib_tag=se&keywords=XT+60+connector&qid=1738358416&s=electronics&sprefix=xt60+connector%2Celectronics%2C112&sr=1-8)
+- [Arduino Nano RP2040](https://www.stemsolutionsmart.com/products/arduino-nano-rp2040-connect)
