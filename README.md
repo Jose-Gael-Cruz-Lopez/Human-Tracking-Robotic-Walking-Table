@@ -16,7 +16,7 @@ This project is a blend of art and engineering, combining the beautiful mechanic
 <img width="1000" height="600" alt="Screenshot 2025-09-14 at 8 37 51 AM" src="https://github.com/user-attachments/assets/b7191cd1-1331-47f7-bb12-b68707fb6ca7" />
 
 ## Authors
-Jose Gael Cruz Lopez : @Jose-Gael-Cruz-Lopez
+Jose Gael Cruz Lopez : @(Jose-Gael-Cruz-Lopez)[https://github.com/Jose-Gael-Cruz-Lopez]
 
 ## Things used in this project
 
